@@ -1,0 +1,22 @@
+.table {
+  max-width: 1205px;
+  text-align: center;
+  margin: 0 auto;
+  border: 2px solid black;
+}
+
+.thead_item {
+  background-color: black;
+  color: white;
+  padding: 20px 64px;
+}
+
+.tbody_item {
+  text-align: center;
+  border: 2px solid black;
+  padding: 20px 20px;
+  font-weight: 700;
+}
+.even_color {
+  background-color: #d3d3d39d;
+}
